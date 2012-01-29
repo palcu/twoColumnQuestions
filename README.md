@@ -4,27 +4,26 @@ At Europe Direct Valcea, I had the task to hold a workshop, where me and my team
 ![screenshot](https://github.com/palcu/twoColumnQuestions/raw/master/screenshots/s1_2colsq.png)
 
 ## Instalation
-<ol>
-<li> Edit in `js/script.js` the teams _(you can add as many as you want)_</li>
+1. Edit in `js/script.js` the teams _(you can add as many as you want)_
 
-  ```js
+    ```js
     //Edit here teams
     teams.push(new team("Penguins", 0));
     teams.push(new team("Geeks", 0));
-  ```
+    ```
 
-<li> Then edit the questions and answers </li>
+2. Then edit the questions and answers
 
-  ```js
+    ```js
     //Here edit questions and answers
     links.push(new link("Constantin Brancusi", "Romania"));
     links.push(new link("Wolfgang Amadeus Mozart", "Austria"));
     links.push(new link("Gerardus Mercator", "Belgia"));
     links.push(new link("Elias Canetti", "Bulgaria"));
-  ```
-<li>Open `index.html` in a browser</li>
-<li>Teams take turns: select an item on the left, and then one on the right, and press `check`. If it is correct, those items will disappear, and the score will be +1. After each turn, press `next` to select the next team.</li>
-</ol>
+    ```
+3. Open `index.html` in a browser
+4. Teams take turns: select an item on the left, and then one on the right, and press `check`. If it is correct, those items will disappear, and the score will be +1. After each turn, press `next` to select the next team.
+
 ## Tools used
 * HTML5 Boilerplate
 * jQuery
