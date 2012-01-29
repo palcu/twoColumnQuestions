@@ -1,6 +1,8 @@
 # Two Column Questions
 At Europe Direct Valcea, I had the task to hold a workshop, where me and my team had to teach 30 kids from the 6th grade, things about Europe. So I developed a web app, where 2 or more teams compete on selecting the correct question and answer. As an example, here on the left are important persons, and on the right, Europeean countries. The kids had to correctly match the person with the country.
 
+![screenshot](https://github.com/palcu/twoColumnQuestions/raw/master/screenshots/s1_2colsq.png)
+
 ## Instalation
 1. Edit in `js/script.js` the teams _(you can add as many as you want)_
 
@@ -28,7 +30,7 @@ At Europe Direct Valcea, I had the task to hold a workshop, where me and my team
 * jQuery
 
 ## Problems
-* spaghetti code
+* [spaghetti](https://github.com/palcu/twoColumnQuestions/blob/master/js/script.js) code _(I didn't hear about backbone.js when coded this)_
 * options not working _(TODO: add html5 file api)_
 * it's ugly _(TODO: use bootstrap)_
 
