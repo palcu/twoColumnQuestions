@@ -3,6 +3,8 @@ At Europe Direct Valcea, I had the task to hold a workshop, where me and my team
 
 ![screenshot](https://github.com/palcu/twoColumnQuestions/raw/master/screenshots/s1_2colsq.png)
 
+## [Demo](http://palcu.github.com/twoColumnQuestions)
+
 ## Instalation
 1. Edit in `js/script.js` the teams _(you can add as many as you want)_
 
